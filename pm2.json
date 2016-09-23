@@ -2,7 +2,7 @@
   "apps": [{
     "name": "ltdd",
     "script": "www/production.js",
-    "cwd": "/Users/lumin/GitHub/ltdd",
+    "cwd": "/www/ltdd",
     "exec_mode": "cluster",
     "instances": 0,
     "max_memory_restart": "1G",
@@ -10,7 +10,7 @@
     "node_args": [],
     "args": [],
     "env": {
-      
+
     }
   }]
 }
